@@ -11,5 +11,11 @@ RSTUDIO
 - install packages 
 - <- is basically equal
 - can mainpulate into minimum and maximum like filters
-- can use knitr to make a pdf
-- 
+- to make markdown, go to plus thing on the left and do markdown, add chunks with the green chunk thing
+- can "knit" into pdf or html (MAKE SURE TO CHANGE OUTPUT!)
+- basically write boxplots as how you think about it
+- sapply: take in list and output as vector (sapply(obj, fun))
+- in this case our function was class, which returns all the elements of the class attribute (in this case the Class column))
+- press source to run entire file
+- more + export to download r file for git
+- need to save file w name before running 
