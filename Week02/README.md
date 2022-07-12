@@ -8,4 +8,11 @@ Lecture 3 Notes
 - neural information retrieval: using neural networks to transform every piece of text into a unique coordinate in the space
 - 768 dimensional space used by Google
 - Distance between text can be representative of similarities between the text!!!
+
+
+Lecture 4 notes
+- we can collect data and extrapolate from that data for further analysis
+- mindsdb platform:
+- need to compare models by running a lot of tests on them
+- exploratory data analysis: don't use code, use showviz and graphs
 - 
